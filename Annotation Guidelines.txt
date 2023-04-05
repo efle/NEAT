@@ -1,0 +1,8 @@
+Complication: An event, or series of events, that points at the problems, or tensions, in the story. A hypothetical or plausible complication is also labelled as such.
+
+Resolution: Refers to the way the story is resolved or to the release of tension. An improvement from, or a manner of coping with, an existing or hypothetical state/situation will also be considered to be a Resolution (even if temporary or partial). Resolution also includes an intention, assessment, anticipation, potential, or desire for resolution.
+
+Success: indication of an achievement or a desirable outcome. A probable, potential, conditional or anticipated success - is also tagged as Success. An entity described by the text in a successful way will be tagged as Success.
+
+
+For detailed information and examples: Effi Levi, Guy Mor, Tamir Sheafer, and Shaul Shenhav. 2022. Detecting Narrative Elements in Informational Text. In Findings of the Association for Computational Linguistics: NAACL 2022, pages 1755–1765, Seattle, United States. Association for Computational Linguistics.
